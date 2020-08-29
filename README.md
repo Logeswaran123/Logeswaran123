@@ -1,3 +1,8 @@
+<!--
+**Logeswaran123/Logeswaran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
 <h1 align='left'>
 Hi there, I'm Logeswaran 👋
 </h1>
@@ -5,13 +10,9 @@ Hi there, I'm Logeswaran 👋
 [![Website](https://img.shields.io/website?label=Logeswaran+Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://logeswaranofficial.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logeswaran-sivakumar-466129165/)
 
-<!--
-**Logeswaran123/Logeswaran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<h3 align='left'>
-I'm a Machine Learning Engineer and a Mentor!
-</h3>
-<hr>
+
+### I'm a Machine Learning Engineer and a Mentor!
+
 <p>
 <ul>
   <li>- 🔭 I’m currently working on NLP and Computer Vision projects.</li>
