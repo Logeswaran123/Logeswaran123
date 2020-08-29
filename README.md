@@ -8,9 +8,9 @@ Hi there, I'm Logeswaran 👋
 <!--
 **Logeswaran123/Logeswaran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3 align='center'>
+<h3 align='left'>
 I'm a Machine Learning Engineer and a Mentor!
-<h3>
+</h3>
 <p>
 <ul>
   <li>- 🔭 I’m currently working on NLP and Computer Vision projects.</li>
@@ -30,7 +30,7 @@ I'm a Machine Learning Engineer and a Mentor!
 <br>
 <br>
 
-<p align='center'>
+<p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Logeswaran123&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
