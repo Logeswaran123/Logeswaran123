@@ -23,6 +23,11 @@ I'm a Machine Learning Engineer and a Mentor!
 [<img align="left" alt="Logeswaran123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Logeswaran123&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+
 
 
 
