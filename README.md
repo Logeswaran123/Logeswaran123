@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning to get my hands dirty in deeplearning.
 - 👯 I’m looking to collaborate with other creators and help student community.
 - 🤔 I’m looking for help with GANs and Pix2Pix networks.
-- 💬 Ask me about Life! 
+- 💬 Ask me about Space, Time and Reality!
 - ⚡ Fun fact: I love to play video games and I'm a skater.
 
 
