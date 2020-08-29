@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/website?label=Logeswaran+Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://logeswaranofficial.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logeswaran-sivakumar-466129165/)
-[![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:loges.siva14@gmail.com)
 
 ## I'm a Machine Learning Engineer and a Mentor!
 
