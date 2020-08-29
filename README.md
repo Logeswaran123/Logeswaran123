@@ -14,18 +14,13 @@ Hi there, I'm Logeswaran 👋
 ### I'm a Machine Learning Engineer and a Mentor!
 
 
+- 🔭 I’m currently working on NLP and Computer Vision projects.
+- 🌱 I’m currently learning to get my hands dirty in deeplearning.
+- 👯 I’m looking to collaborate with other creators and help student community.
+- 🤔 I’m looking for help with GANs and Pix2Pix networks.
+- 💬 Ask me about Life! 
+- ⚡ Fun fact: I love to play video games and I'm a skater.
 
-<p>
-<ul>
-  <li>- 🔭 I’m currently working on NLP and Computer Vision projects.</li>
-  <li>- 🌱 I’m currently learning to get my hands dirty in deeplearning.</li>
-  <li>- 👯 I’m looking to collaborate with other creators and help student community.</li>
-  <li>- 🤔 I’m looking for help with GANs and Pix2Pix networks.</li>
-  <li>- 💬 Ask me about Life! </li>
-  <li>- 😄 Pronouns: ...</li>
-  <li>- ⚡ Fun fact: I love to play video games and I'm a skater.</li>
-</ul>
-</p>
 
 ### Connect with me:
 
