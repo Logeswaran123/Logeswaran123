@@ -8,8 +8,9 @@ Hi there, I'm Logeswaran 👋
 <!--
 **Logeswaran123/Logeswaran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align='center'>
-#### I'm a Machine Learning Engineer and a Mentor!
+<h3 align='center'>
+I'm a Machine Learning Engineer and a Mentor!
+<h3>
 <ul>
   <li>- 🔭 I’m currently working on NLP and Computer Vision projects.</li>
   <li>- 🌱 I’m currently learning to get my hands dirty in deeplearning.</li>
