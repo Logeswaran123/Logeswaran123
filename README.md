@@ -11,6 +11,7 @@ Hi there, I'm Logeswaran 👋
 <h3 align='left'>
 I'm a Machine Learning Engineer and a Mentor!
 </h3>
+<hr>
 <p>
 <ul>
   <li>- 🔭 I’m currently working on NLP and Computer Vision projects.</li>
