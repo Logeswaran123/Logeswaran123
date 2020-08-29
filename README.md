@@ -1,6 +1,6 @@
 ### Hi there, I'm Logeswaran 👋
 
-[![Website](https://img.shields.io/website?label=Logeswaran site&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://logeswaranofficial.com/)
+[![Website](https://img.shields.io/website?label=Logeswaran+Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://logeswaranofficial.com/)
 [![linkedin](https://img.shields.io/website?label=Logeswaran&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/logeswaran-sivakumar-466129165/)
 
 <!--
