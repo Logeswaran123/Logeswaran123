@@ -23,14 +23,9 @@
 [<img align="left" alt="logeswaranofficial.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Logeswaran123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
-<br>
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Logeswaran123&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Logeswaran123/Udacity_Intel_Edge_AI"></a> views
 </p>
 
 
