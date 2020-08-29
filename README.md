@@ -30,7 +30,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Logeswaran123"></a> views
+  <a href="#"><img src="https://badges.pufler.dev/visits/Logeswaran123/Udacity_Intel_Edge_AI"></a> views
 </p>
 
 
