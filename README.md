@@ -1,4 +1,4 @@
-<h1 align='center'>
+<h1 align='left'>
 Hi there, I'm Logeswaran 👋
 </h1>
 
@@ -11,6 +11,7 @@ Hi there, I'm Logeswaran 👋
 <h3 align='center'>
 I'm a Machine Learning Engineer and a Mentor!
 <h3>
+<p>
 <ul>
   <li>- 🔭 I’m currently working on NLP and Computer Vision projects.</li>
   <li>- 🌱 I’m currently learning to get my hands dirty in deeplearning.</li>
@@ -19,7 +20,7 @@ I'm a Machine Learning Engineer and a Mentor!
   <li>- 💬 Ask me about Life! </li>
   <li>- 😄 Pronouns: ...</li>
   <li>- ⚡ Fun fact: I love to play video games and I'm a skater.</li>
-  </ul>
+</ul>
 </p>
 
 ### Connect with me:
