@@ -1,7 +1,7 @@
 ### Hi there, I'm Logeswaran 👋
 
 [![Website](https://img.shields.io/website?label=Logeswaran+Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://logeswaranofficial.com/)
-[![linkedin](https://img.shields.io/website?label=Logeswaran&style=for-the-badge&&logo=linkedin&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/logeswaran-sivakumar-466129165/)
+[![linkedin](https://img.shields.io/website?label=Logeswaran&style=for-the-badge&&logo=linkedin)](https://www.linkedin.com/in/logeswaran-sivakumar-466129165/)
 
 <!--
 **Logeswaran123/Logeswaran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
