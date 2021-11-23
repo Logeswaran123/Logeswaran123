@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate with other creators and help the student community.
 - 🤔 I’m looking for help understanding VR and AR tech.
 - 💬 Ask me about Space, Time and Reality! (P.S. also other infinity stones)
-- ⚡ Fun fact: I love to play video games and I'm a skater :roller_skate:.
+- ⚡ Fun fact: I love to play video games and I'm a skater :skateboard:.
 
 
 ### Connect with me:
