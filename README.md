@@ -9,6 +9,7 @@
 
 ## I'm a Machine Learning Engineer and a Mentor!
 
+- :mage_man: I’m currently working at MulticoreWare Inc. creating cutting edge technologies which seems like magic
 - 🔭 I’m currently working on NLP and Computer Vision projects.
 - 🌱 I’m currently learning to get my hands dirty in deeplearning.
 - 👯 I’m looking to collaborate with other creators and help the student community.
