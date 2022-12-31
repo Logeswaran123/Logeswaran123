@@ -52,7 +52,7 @@
 <br>
 
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.logeswaran123.vercel.app/api?username=Logeswaran123&show_icons=true&count_private=true&theme=dark&text_color=fff&hide=contribs,issues" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.logeswaran123.vercel.app/api?username=Logeswaran123&show_icons=true&include_all_commits=true&count_private=true&theme=dark&text_color=fff&hide=contribs,issues" width="450"></a>
 </p>
 
 
