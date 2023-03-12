@@ -2,12 +2,16 @@
 **Logeswaran123/Logeswaran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, I'm Logeswaran 👋
+<h1 align="center"> Hi there, I'm <a href="https://www.logeswaranofficial.com/">Logeswaran</a> </h1>
+
+<div align="center">
 
 [![Website](https://img.shields.io/website?label=Logeswaran+Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.logeswaranofficial.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logeswaran-sivakumar-466129165/)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://logessiva.medium.com/)
 [![medium](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRRxBDHkn8F3Sku98eoqzJw)
+
+</div>
 
 ## I'm a Machine Learning Engineer!
 
@@ -54,7 +58,6 @@
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.logeswaran123.vercel.app/api?username=Logeswaran123&show_icons=true&include_all_commits=true&count_private=true&theme=dark&text_color=fff&hide=contribs,issues" width="450"></a>
 </p>
-
 
 
 
