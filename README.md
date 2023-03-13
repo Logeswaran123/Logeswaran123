@@ -3,7 +3,6 @@
 -->
 
 <h1 align="center"> Hi there, I'm <a href="https://www.logeswaranofficial.com/">Logeswaran</a> </h1>
-<h1 align="center"> I'm a Machine Learning Engineer! </h1>
 
 <div align="center">
 
@@ -14,15 +13,15 @@
 
 </div>
 
-<img src="https://github.com/Logeswaran123/Logeswaran123/blob/master/assets/illustration_1.png" min-width="100px" max-width="100px" width="250px" align="right">
+## I'm a Machine Learning Engineer!
 
-:mage_man: I’m creating cutting edge technologies at MulticoreWare Inc. that seems like magic. <br/>
-🔭 I’m currently working on NLP and Computer Vision projects. <br/>
-🌱 I’m currently learning to get my hands dirty in deeplearning. <br/>
-👯 I’m looking to collaborate with other creators and help the student community. <br/>
-🤔 I’m looking for help understanding VR and AR tech. <br/>
-💬 Ask me about Space, Time and Reality! (P.S. also other infinity stones) <br/>
-⚡ Fun fact: I love to play video games and I'm a skater :skateboard:. <br/>
+- :mage_man: I’m creating cutting edge technologies at MulticoreWare Inc. that seems like magic. <br/>
+- 🔭 I’m currently working on NLP and Computer Vision projects. <br/>
+- 🌱 I’m currently learning to get my hands dirty in deeplearning. <br/>
+- 👯 I’m looking to collaborate with other creators and help the student community. <br/>
+- 🤔 I’m looking for help understanding VR and AR tech. <br/>
+- 💬 Ask me about Space, Time and Reality! (P.S. also other infinity stones) <br/>
+- ⚡ Fun fact: I love to play video games and I'm a skater :skateboard:. <br/>
 
 
 ### Connect with me:
