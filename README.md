@@ -16,7 +16,7 @@
 
 <img src="https://github.com/Logeswaran123/Logeswaran123/blob/master/assets/illustration_1.png" min-width="100px" max-width="100px" width="250px" align="right">
 
-:mage_man: I’m currently working at MulticoreWare Inc. creating cutting edge technologies that seems like magic. <br/>
+:mage_man: I’m working at MulticoreWare Inc. creating cutting edge technologies that seems like magic. <br/>
 🔭 I’m currently working on NLP and Computer Vision projects. <br/>
 🌱 I’m currently learning to get my hands dirty in deeplearning. <br/>
 👯 I’m looking to collaborate with other creators and help the student community. <br/>
