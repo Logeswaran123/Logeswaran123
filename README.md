@@ -15,13 +15,13 @@
 
 ## I'm a Machine Learning Engineer!
 
-- :mage_man: I’m currently working at MulticoreWare Inc. creating cutting edge technologies that seems like magic
-- 🔭 I’m currently working on NLP and Computer Vision projects.
-- 🌱 I’m currently learning to get my hands dirty in deeplearning.
-- 👯 I’m looking to collaborate with other creators and help the student community.
-- 🤔 I’m looking for help understanding VR and AR tech.
-- 💬 Ask me about Space, Time and Reality! (P.S. also other infinity stones)
-- ⚡ Fun fact: I love to play video games and I'm a skater :skateboard:.
+:mage_man: I’m currently working at MulticoreWare Inc. creating cutting edge technologies that seems like magic. <br/>
+🔭 I’m currently working on NLP and Computer Vision projects. <br/>
+🌱 I’m currently learning to get my hands dirty in deeplearning. <br/>
+👯 I’m looking to collaborate with other creators and help the student community. <br/>
+🤔 I’m looking for help understanding VR and AR tech. <br/>
+💬 Ask me about Space, Time and Reality! (P.S. also other infinity stones) <br/>
+⚡ Fun fact: I love to play video games and I'm a skater :skateboard:. <br/>
 
 
 ### Connect with me:
