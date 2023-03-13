@@ -3,6 +3,7 @@
 -->
 
 <h1 align="center"> Hi there, I'm <a href="https://www.logeswaranofficial.com/">Logeswaran</a> </h1>
+<h1 align="center"> I'm a Machine Learning Engineer! </h1>
 
 <div align="center">
 
@@ -13,7 +14,7 @@
 
 </div>
 
-## I'm a Machine Learning Engineer!
+<img src="https://github.com/Logeswaran123/Logeswaran123/blob/master/assets/illustration_1.png" min-width="100px" max-width="100px" width="250px" align="right">
 
 :mage_man: I’m currently working at MulticoreWare Inc. creating cutting edge technologies that seems like magic. <br/>
 🔭 I’m currently working on NLP and Computer Vision projects. <br/>
