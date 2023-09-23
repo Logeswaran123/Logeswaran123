@@ -15,19 +15,20 @@
 
 <h2 align="center"> Machine Learning | Deep Learning | Computer Vision | Software Development </h2>
 
-- :mage_man: I’m creating cutting edge technologies at MulticoreWare Inc. that seems like magic. <br/>
-- 🔭 I’m currently working on NLP and Computer Vision projects. <br/>
-- 🌱 I’m currently learning to get my hands dirty in deeplearning. <br/>
+<p align="center"> Welcome to my GitHub profile! </br> Here, you'll find a glimpse of my projects, interests, and contributions to the tech community. </p>
+
+- :mage_man: My current interests include vision and generative systems. <br/>
 - 👯 I’m looking to collaborate with other creators and help the student community. <br/>
 - 🤔 I’m looking for help understanding VR and AR tech. <br/>
 - 💬 Ask me about Space, Time and Reality! (P.S. also other infinity stones) <br/>
-- ⚡ Fun fact: I love to play video games and I'm a skater :skateboard:. <br/>
+- ⚡ Fun fact: I love to play video games and find game development interesting. :skateboard:. <br/>
 
 
 ### Connect with me:
 
 [<img align="left" alt="logeswaranofficial.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Logeswaran123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Logeswaran123 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>][medium]
 <br>
 
 
@@ -64,3 +65,5 @@
 
 [website]: https://logeswaranofficial.com/
 [linkedin]: https://www.linkedin.com/in/logeswaran-sivakumar-466129165/
+[medium]: https://logessiva.medium.com/
+
