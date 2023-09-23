@@ -13,7 +13,7 @@
 
 </div>
 
-## I'm a Machine Learning Engineer!
+<h2 align="center"> Machine Learning | Deep Learning | Computer Vision | Software Development </h2>
 
 - :mage_man: I’m creating cutting edge technologies at MulticoreWare Inc. that seems like magic. <br/>
 - 🔭 I’m currently working on NLP and Computer Vision projects. <br/>
