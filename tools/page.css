@@ -95,7 +95,8 @@ h3 {
 .shell {
   display: grid;
   grid-template-columns: 216px minmax(0, 1fr);
-  padding: var(--sp-6) 0;
+  padding-top: var(--sp-6);
+  padding-bottom: var(--sp-6);
 }
 
 .sidebar {

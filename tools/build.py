@@ -250,16 +250,18 @@ _instances = {}
 
 
 def font_data(family, weight, chars):
+    # recalcTimestamp=False keeps the output identical between runs.
     weight = int(weight)
     if family.startswith("Inter"):
         if weight not in _instances:
-            f = instancer.instantiateVariableFont(TTFont(FONTS["Inter Variable"]), {"wght": weight})
+            f = TTFont(FONTS["Inter Variable"], recalcTimestamp=False)
+            f = instancer.instantiateVariableFont(f, {"wght": weight})
             buf = io.BytesIO()
             f.save(buf)
             _instances[weight] = buf.getvalue()
-        f = TTFont(io.BytesIO(_instances[weight]))
+        f = TTFont(io.BytesIO(_instances[weight]), recalcTimestamp=False)
     else:
-        f = TTFont(FONTS[(family, 600 if weight >= 500 else 400)])
+        f = TTFont(FONTS[(family, 600 if weight >= 500 else 400)], recalcTimestamp=False)
     opts = subset.Options()
     opts.flavor = "woff2"
     opts.layout_features = []
