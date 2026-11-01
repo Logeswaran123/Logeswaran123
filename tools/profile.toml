@@ -3,7 +3,7 @@
 
 site = "https://logeswaranofficial.com"
 name = "Logeswaran Sivakumar"
-tagline = "ML systems, GPU performance and agentic AI"
+tagline = "Computer vision, ML systems, GPU performance and agentic AI"
 posts = 2
 
 [[links]]
@@ -50,8 +50,3 @@ href = "https://github.com/Logeswaran123/Multiscale-Template-Matching"
 name = "Stable Diffusion Playground"
 description = "Image and video generation with latent diffusion models"
 href = "https://github.com/Logeswaran123/Stable-Diffusion-Playground"
-
-[[projects]]
-name = "Mr. Pose"
-description = "Real-time pose estimation for exercise form and rep counting"
-href = "https://github.com/Logeswaran123/MrPose"
