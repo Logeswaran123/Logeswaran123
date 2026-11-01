@@ -1,0 +1,101 @@
+# Content for the profile README. Posts come from the site's RSS feed and the
+# star chart from its /tags/ page; everything else is here. Run tools/build.py
+# after editing.
+
+site = "https://logeswaranofficial.com"
+name = "Logeswaran Sivakumar"
+tagline = "ML systems, GPU performance and agentic AI"
+role = "AI Optimization Engineer at Solidigm (SK Hynix)"
+location = "Portland, OR"
+posts = 4
+
+bio = [
+  """AI Optimization Engineer at Solidigm with 3+ years of experience on AI model performance,
+  computer vision, and GPU software development. My work focuses on accelerating training and
+  inference, optimizing models and systems for speed and efficiency.""",
+  """During my MS at Oregon State University, my research focused on Fused PointConv, where I
+  designed fused CUDA kernels and inverse neighborhood indexing for high-performance 3D point
+  cloud learning.""",
+  """Besides AI, I like to explore algorithm optimization and computation efficiency. If you find
+  me, talk to me about space, science, or AI. Bonus points if it involves all three.""",
+]
+
+[[links]]
+label = "logeswaranofficial.com"
+href = "https://logeswaranofficial.com"
+icon = "globe"
+
+[[links]]
+label = "LinkedIn"
+href = "https://www.linkedin.com/in/logeswaransivakumar"
+icon = "linkedin"
+
+[[links]]
+label = "Medium"
+href = "https://logessiva.medium.com"
+icon = "medium"
+
+[[links]]
+label = "Contact"
+href = "https://logeswaranofficial.com/contact/"
+icon = "email"
+
+[[experience]]
+title = "AI Optimization Engineer"
+org = "Solidigm (SK Hynix)"
+period = "Jul 2025 – Present"
+
+[[experience]]
+title = "AI Engineer Intern"
+org = "AMD"
+period = "Jan 2025 – May 2025"
+
+[[experience]]
+title = "Machine Learning Engineer Intern"
+org = "Samsung Austin Semiconductor"
+period = "Jun 2024 – Dec 2024"
+
+[[experience]]
+title = "Machine Learning Engineer"
+org = "MulticoreWare Inc."
+period = "Jan 2021 – Jul 2023"
+
+[[projects]]
+name = "tessiq"
+description = """An out-of-tree PyTorch backend for NVIDIA GPUs, with a device runtime, a
+torch.compile compiler with its own IR and passes, and a kernel library."""
+href = "https://github.com/Logeswaran123/tessiq"
+tech = ["C++", "CUDA", "Python", "PyTorch"]
+featured = true
+
+[[projects]]
+name = "Fused PointConv"
+description = """Fused forward pipeline for PointConv with SRAM-staged intermediates and CUTLASS
+batched GEMMs, plus an inverse KNN index map that converts the backward pass from an atomic
+scatter into a conflict-free gather. 1.9× forward and 1.6× backward on an H100 at 400k points."""
+href = "https://github.com/Logeswaran123/ml-pointconvformer-optim"
+tech = ["CUDA", "CUTLASS", "PyTorch"]
+featured = true
+
+[[projects]]
+name = "Distilling LLMs with RAG"
+description = """Distilled Llama 3 into a T5 model with retrieval-augmented step-by-step
+reasoning: 67× smaller while holding task performance, including in low-data settings."""
+href = "https://github.com/Logeswaran123/distilling-step-by-step-rag"
+
+[[projects]]
+name = "Multiscale Template Matching"
+description = """Scale-invariant template matching using SIFT features and a FLANN-based
+matcher, to locate a cropped region inside its source image across unknown scales."""
+href = "https://github.com/Logeswaran123/Multiscale-Template-Matching"
+
+[[projects]]
+name = "Stable Diffusion Playground"
+description = "Image and 2D/3D video generation built on latent diffusion models."
+href = "https://github.com/Logeswaran123/Stable-Diffusion-Playground"
+
+[[projects]]
+name = "Mr. Pose"
+description = """Real-time pose estimation that scores exercise form, counts repetitions and
+classifies the movement."""
+href = "https://github.com/Logeswaran123/MrPose"
