@@ -1,69 +1,26 @@
-<!--
-**Logeswaran123/Logeswaran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Logeswaran Sivakumar
 
-<h1 align="center"> Hi there, I'm <a href="https://www.logeswaranofficial.com/">Logeswaran</a> </h1>
+ML systems, GPU performance and agentic AI.
 
-<div align="center">
+AI Optimization Engineer at Solidigm (SK Hynix) in Portland, OR. I work on making training and
+inference faster: GPU kernels, compilers and runtimes, and the hardware underneath. M.S. in Computer
+Science from Oregon State University, where I worked on fused CUDA kernels for point cloud networks.
+Previously at AMD, Samsung and MulticoreWare.
 
-[![Website](https://img.shields.io/website?label=Logeswaran+Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.logeswaranofficial.com/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logeswaran-sivakumar-466129165/)
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://logessiva.medium.com/)
-[![medium](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRRxBDHkn8F3Sku98eoqzJw)
+[Website](https://logeswaranofficial.com) · [LinkedIn](https://www.linkedin.com/in/logeswaransivakumar) · [Medium](https://logessiva.medium.com)
 
-</div>
+#### Projects
 
-<h2 align="center"> Machine Learning | Deep Learning | Computer Vision | Software Development </h2>
+- [tessiq](https://github.com/Logeswaran123/tessiq): out-of-tree PyTorch backend for NVIDIA GPUs, with a device runtime, a `torch.compile` compiler with its own IR and passes, and a kernel library.
+- [Fused PointConv](https://github.com/Logeswaran123/ml-pointconvformer-optim): fused CUDA and CUTLASS forward pass for PointConv, and an inverse KNN index map that turns the backward atomic scatter into a gather. 1.9× forward, 1.6× backward on an H100 at 400k points.
+- [Distilling LLMs with RAG](https://github.com/Logeswaran123/distilling-step-by-step-rag): Llama 3 distilled into T5 with retrieval-augmented step-by-step reasoning, 67× smaller.
+- [Multiscale Template Matching](https://github.com/Logeswaran123/Multiscale-Template-Matching): locates a cropped region in its source image across unknown scales with SIFT and FLANN.
+- [Stable Diffusion Playground](https://github.com/Logeswaran123/Stable-Diffusion-Playground): image and 2D/3D video generation with latent diffusion models.
+- [Mr. Pose](https://github.com/Logeswaran123/MrPose): real-time pose estimation that scores exercise form and counts reps.
 
-<p align="center"> Welcome to my GitHub profile! </br> Here, you'll find a glimpse of my projects, interests, and contributions to the tech community. </p>
+#### Writing
 
-- :mage_man: My current interests include vision and generative systems. <br/>
-- 👯 I’m looking to collaborate with other creators and help the student community. <br/>
-- 🤔 I’m looking for help understanding VR and AR tech. <br/>
-- 💬 Ask me about Space, Time and Reality! (P.S. also other infinity stones) <br/>
-- ⚡ Fun fact: I love to play video games and find game development interesting. :skateboard:. <br/>
-
-
-### Connect with me:
-
-[<img align="left" alt="logeswaranofficial.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Logeswaran123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Logeswaran123 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>][medium]
-<br>
-
-
-### Languages and Tools:
-
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="" width="35px" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4" />
-<img align="left" alt="" width="35px" src="https://avatars2.githubusercontent.com/u/34455048?s=200&v=4" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
-<img align="left" alt="" width="35px" src="https://avatars1.githubusercontent.com/u/55443902?s=200&v=4" />
-<img align="left" alt="" width="35px" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<br>
-<br>
-<img align="left" alt="" width="35px" src="https://avatars0.githubusercontent.com/u/828667?s=200&v=4" />
-<br>
-<br>
-<br>
-
-<p align='left'>
-  <a href="#"><img src="https://github-readme-stats.logeswaran123.vercel.app/api?username=Logeswaran123&show_icons=true&include_all_commits=true&count_private=true&theme=dark&text_color=fff&hide=contribs,issues" width="450"></a>
-</p>
-
-
-
-
-[website]: https://logeswaranofficial.com/
-[linkedin]: https://www.linkedin.com/in/logeswaran-sivakumar-466129165/
-[medium]: https://logessiva.medium.com/
-
+- [Building an Out-of-Tree PyTorch Backend, End to End](https://logeswaranofficial.com/blog/building-a-pytorch-backend/) · Oct 2026
+- [Understanding and Exploring 3D Gaussian Splatting](https://logeswaranofficial.com/blog/3d-gaussian-splatting/) · Dec 2023
+- [Mr. Pose: An Easy Guide for Pose Estimation with Google's MediaPipe](https://logeswaranofficial.com/blog/pose-estimation-with-mediapipe/) · Oct 2022
+- [Playground for Stable Diffusion](https://logeswaranofficial.com/blog/stable-diffusion-playground/) · Oct 2022
