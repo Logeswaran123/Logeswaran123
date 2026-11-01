@@ -19,7 +19,6 @@ import tempfile
 import tomllib
 import urllib.request
 import xml.etree.ElementTree as ET
-from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 from fontTools import subset
@@ -39,6 +38,7 @@ FONTS = {
 ICONS = {
     "linkedin": '<path fill="currentColor" d="M20.4 20.5h-3.6v-5.6c0-1.3 0-3-1.9-3s-2.1 1.4-2.1 2.9v5.7H9.4V9h3.4v1.6h.1a3.8 3.8 0 0 1 3.4-1.9c3.6 0 4.3 2.4 4.3 5.5v6.3zM5.3 7.4a2.1 2.1 0 1 1 0-4.2 2.1 2.1 0 0 1 0 4.2zm1.8 13.1H3.5V9h3.6v11.5zM22.2 0H1.8C.8 0 0 .8 0 1.7v20.6c0 1 .8 1.7 1.8 1.7h20.4c1 0 1.8-.8 1.8-1.7V1.7c0-1-.8-1.7-1.8-1.7z"/>',
     "medium": '<path fill="currentColor" d="M13.5 12a6.8 6.8 0 1 1-13.5 0 6.8 6.8 0 0 1 13.5 0zm7.4 0c0 3.5-1.5 6.4-3.4 6.4-1.9 0-3.4-2.9-3.4-6.4s1.5-6.4 3.4-6.4c1.9 0 3.4 2.9 3.4 6.4zM24 12c0 3.2-.5 5.7-1.2 5.7-.7 0-1.2-2.5-1.2-5.7s.5-5.7 1.2-5.7c.7 0 1.2 2.5 1.2 5.7z"/>',
+    "youtube": '<path fill="currentColor" d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.5 15.6V8.4l6.3 3.6-6.3 3.6z"/>',
     "globe": '<g fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.5 2.7 3.8 5.9 3.8 9.5s-1.3 6.8-3.8 9.5c-2.5-2.7-3.8-5.9-3.8-9.5s1.3-6.8 3.8-9.5z"/></g>',
 }
 
@@ -88,11 +88,7 @@ def render(url, dark):
 def load_posts(site, count):
     root = ET.fromstring(fetch(f"{site}/rss.xml"))
     return [
-        {
-            "title": item.findtext("title"),
-            "href": item.findtext("link"),
-            "date": parsedate_to_datetime(item.findtext("pubDate")),
-        }
+        {"title": item.findtext("title"), "href": item.findtext("link")}
         for item in list(root.iter("item"))[:count]
     ]
 
@@ -111,11 +107,9 @@ def page(p, posts):
 
     groups.append([])
     add(
-        "header", p["site"], f"{p['name']}, {p['role']}",
+        "header", p["site"], f"{p['name']}: {p['tagline']}",
         "block",
-        f'<p class="name">{e(p["name"])}</p>'
-        f'<p class="lede">{e(p["role"])} · {e(p["location"])}</p>'
-        f'<p>{e(p["summary"])}</p>',
+        f'<p class="name">{e(p["name"])}</p><p class="lede">{e(p["tagline"])}</p>',
     )
 
     groups.append([])
@@ -142,7 +136,7 @@ def page(p, posts):
         add(
             f"post-{slug(post['href'].rstrip('/').rsplit('/', 1)[-1])}", post["href"], post["title"],
             f"block row{' ruled' if i else ''}",
-            f'<p class="label">{e(post["title"])}</p><p class="date">{post["date"]:%b %Y}</p>',
+            f'<p class="label">{e(post["title"])}</p>',
         )
 
     faces = "".join(

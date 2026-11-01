@@ -3,10 +3,8 @@
 
 site = "https://logeswaranofficial.com"
 name = "Logeswaran Sivakumar"
-role = "AI Optimization Engineer at Solidigm (SK Hynix)"
-location = "Portland, OR"
-summary = "Model efficiency and GPU performance: training, inference, and the hardware underneath."
-posts = 4
+tagline = "ML systems, GPU performance and agentic AI"
+posts = 2
 
 [[links]]
 label = "logeswaranofficial.com"
@@ -22,6 +20,11 @@ icon = "linkedin"
 label = "Medium"
 href = "https://logessiva.medium.com"
 icon = "medium"
+
+[[links]]
+label = "YouTube"
+href = "https://www.youtube.com/channel/UCRRxBDHkn8F3Sku98eoqzJw"
+icon = "youtube"
 
 [[projects]]
 name = "tessiq"

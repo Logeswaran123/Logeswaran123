@@ -130,10 +130,3 @@ p {
   color: var(--text-muted);
   margin-left: var(--sp-3);
 }
-
-.date {
-  font-family: var(--font-mono);
-  font-size: var(--fs-sm);
-  color: var(--text-faint);
-  white-space: nowrap;
-}
