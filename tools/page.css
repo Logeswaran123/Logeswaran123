@@ -1,0 +1,130 @@
+/* Colours, type and section styles from logeswaranofficial.com (src/styles/global.css).
+   Fonts are injected by build.py. */
+
+:root {
+  --font-sans: 'Inter Variable', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --fs-xs: 0.78rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1.0625rem;
+  --fs-2xl: 1.875rem;
+
+  --sp-1: 0.25rem;
+  --sp-2: 0.5rem;
+  --sp-3: 0.75rem;
+  --sp-4: 1rem;
+  --sp-6: 1.5rem;
+
+  --radius: 4px;
+
+  --bg: #fdfdfc;
+  --bg-subtle: #f4f4f1;
+  --text: #1b1b19;
+  --text-muted: #6a6a64;
+  --text-faint: #8d8d86;
+  --border: #e3e3de;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #131316;
+    --bg-subtle: #1a1a1e;
+    --text: #e6e6e3;
+    --text-muted: #9b9b95;
+    --text-faint: #77776f;
+    --border: #2a2a30;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: var(--fs-md);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+p {
+  margin: 0;
+}
+
+.block {
+  width: 840px;
+  margin-bottom: 24px;
+}
+
+.name {
+  font-size: var(--fs-2xl);
+  font-weight: 600;
+  letter-spacing: -0.014em;
+  line-height: 1.25;
+  margin-bottom: var(--sp-2);
+}
+
+.lede {
+  color: var(--text-muted);
+}
+
+.chip-wrap {
+  display: inline-block;
+  margin: 0 8px 8px 0;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-2);
+  font-size: var(--fs-xs);
+  font-family: var(--font-mono);
+  color: var(--text-muted);
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.25em 0.6em;
+  line-height: 1.5;
+}
+
+.chip svg {
+  color: var(--text-faint);
+}
+
+.section-title {
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--text-faint);
+  padding: var(--sp-6) 0 var(--sp-2);
+  border-bottom: 1px solid var(--border);
+}
+
+/* Rows sit in one paragraph on GitHub, a few pixels apart, so the rule goes on top. */
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--sp-4);
+  padding: var(--sp-3) 0 var(--sp-2);
+}
+
+.row.ruled {
+  border-top: 1px solid var(--border);
+}
+
+.label {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.desc {
+  color: var(--text-muted);
+  margin-left: var(--sp-3);
+}

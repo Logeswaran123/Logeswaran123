@@ -1,0 +1,53 @@
+# Content for the profile README. Posts come from the site's RSS feed and the star count from
+# the GitHub API; everything else is here. Run tools/build.py after editing.
+
+site = "https://logeswaranofficial.com"
+github = "Logeswaran123"
+name = "Logeswaran Sivakumar"
+tagline = "Computer vision, ML systems, GPU performance and Agentic AI"
+posts = 2
+
+[[links]]
+label = "logeswaranofficial.com"
+href = "https://logeswaranofficial.com"
+icon = "globe"
+
+[[links]]
+label = "LinkedIn"
+href = "https://www.linkedin.com/in/logeswaransivakumar"
+icon = "linkedin"
+
+[[links]]
+label = "Medium"
+href = "https://logessiva.medium.com"
+icon = "medium"
+
+[[links]]
+label = "YouTube"
+href = "https://www.youtube.com/channel/UCRRxBDHkn8F3Sku98eoqzJw"
+icon = "youtube"
+
+[[projects]]
+name = "tessiq"
+description = "Out-of-tree PyTorch backend for NVIDIA GPUs"
+href = "https://github.com/Logeswaran123/tessiq"
+
+[[projects]]
+name = "Fused PointConv"
+description = "Fused CUDA and CUTLASS kernels for point cloud convolution"
+href = "https://github.com/Logeswaran123/ml-pointconvformer-optim"
+
+[[projects]]
+name = "Distilling LLMs with RAG"
+description = "Llama 3 distilled into T5 with retrieval-augmented reasoning"
+href = "https://github.com/Logeswaran123/distilling-step-by-step-rag"
+
+[[projects]]
+name = "Multiscale Template Matching"
+description = "Scale-invariant template matching with SIFT and FLANN"
+href = "https://github.com/Logeswaran123/Multiscale-Template-Matching"
+
+[[projects]]
+name = "Stable Diffusion Playground"
+description = "Image and video generation with latent diffusion models"
+href = "https://github.com/Logeswaran123/Stable-Diffusion-Playground"
