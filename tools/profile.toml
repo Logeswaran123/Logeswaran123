@@ -1,7 +1,8 @@
-# Content for the profile README. Posts come from the site's RSS feed; everything else is
-# here. Run tools/build.py after editing.
+# Content for the profile README. Posts come from the site's RSS feed and the star count from
+# the GitHub API; everything else is here. Run tools/build.py after editing.
 
 site = "https://logeswaranofficial.com"
+github = "Logeswaran123"
 name = "Logeswaran Sivakumar"
 tagline = "Computer vision, ML systems, GPU performance and Agentic AI"
 posts = 2
