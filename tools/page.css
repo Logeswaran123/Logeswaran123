@@ -24,7 +24,6 @@
   --text-muted: #6a6a64;
   --text-faint: #8d8d86;
   --border: #e3e3de;
-  --accent: #10559a;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,7 +34,6 @@
     --text-muted: #9b9b95;
     --text-faint: #77776f;
     --border: #2a2a30;
-    --accent: #8cb6ee;
   }
 }
 
@@ -122,7 +120,7 @@ p {
 }
 
 .label {
-  color: var(--accent);
+  color: var(--text);
   font-weight: 600;
 }
 
